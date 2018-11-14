@@ -1,0 +1,34 @@
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\TestProject.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\BuildAbike.exe
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\BuildAbike.pdb
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\BuildAbike.exe.config
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Richard\source\repos\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Richard\source\repos\BuildAbike\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\BuildAbike\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\BuildAbike\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Richard\source\repos\BuildAbike\TestProject\obj\Debug\TestProject.dll
+C:\Users\Richard\source\repos\BuildAbike\TestProject\obj\Debug\TestProject.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\TestProject.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\TestProject.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\BuildAbike.exe
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\BuildAbike.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\BuildAbike.exe.config
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\obj\Debug\TestProject.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\obj\Debug\TestProject.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\TestProject\obj\Debug\TestProject.csproj.CopyComplete

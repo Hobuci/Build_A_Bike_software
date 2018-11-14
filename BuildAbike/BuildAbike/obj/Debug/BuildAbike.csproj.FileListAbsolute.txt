@@ -1,0 +1,68 @@
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\BuildAbike.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\BuildAbike.csproj.GenerateResource.Cache
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\BuildAbike.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\customerDetails.g.cs
+C:\Users\Richard\source\repos\WpfApp1\WpfApp1\obj\Debug\customerDetails.baml
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\bin\Debug\BuildAbike.exe.config
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\bin\Debug\BuildAbike.exe
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\bin\Debug\BuildAbike.pdb
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike_MarkupCompile.cache
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike_MarkupCompile.lref
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.g.resources
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.Properties.Resources.resources
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.csproj.GenerateResource.Cache
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.exe
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\BuildAbike.pdb
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\CustomerDetailsWindow.g.cs
+C:\Users\Richard\source\repos\BuildAbike\WpfApp1\obj\Debug\CustomerDetailsWindow.baml
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\bin\Debug\BuildAbike.exe.config
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\bin\Debug\BuildAbike.exe
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\bin\Debug\BuildAbike.pdb
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\CustomerDetailsWindow.g.cs
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\MainWindow.g.cs
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\App.g.cs
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike_MarkupCompile.cache
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike_MarkupCompile.lref
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\CustomerDetailsWindow.baml
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\MainWindow.baml
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.g.resources
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.Properties.Resources.resources
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.csproj.GenerateResource.cache
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.exe
+C:\Users\Richard\source\repos\BuildAbike\BuildAbike\obj\Debug\BuildAbike.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\bin\Debug\BuildAbike.exe.config
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\bin\Debug\BuildAbike.exe
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\bin\Debug\BuildAbike.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.csprojResolveAssemblyReference.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\CustomerDetailsWindow.g.cs
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\MainWindow.g.cs
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\App.g.cs
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike_MarkupCompile.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike_MarkupCompile.lref
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\CustomerDetailsWindow.baml
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\MainWindow.baml
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.g.resources
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.Properties.Resources.resources
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.csproj.GenerateResource.Cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.csproj.CoreCompileInputs.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.exe
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\BuildAbike\obj\Debug\BuildAbike.pdb

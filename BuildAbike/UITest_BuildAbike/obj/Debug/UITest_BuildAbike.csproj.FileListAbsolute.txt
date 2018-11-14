@@ -1,0 +1,12 @@
+C:\Users\Richard\source\repos\BuildAbike\UITest_BuildAbike\bin\Debug\UITest_BuildAbike.dll
+C:\Users\Richard\source\repos\BuildAbike\UITest_BuildAbike\bin\Debug\UITest_BuildAbike.pdb
+C:\Users\Richard\source\repos\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.dll
+C:\Users\Richard\source\repos\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.csprojResolveAssemblyReference.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.csproj.CoreCompileInputs.cache
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\UITest_BuildAbike\obj\Debug\UITest_BuildAbike.pdb
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\UITest_BuildAbike\bin\Debug\UITest_BuildAbike.dll
+C:\Richard\_UNI\Y2S2\Software Engineering Methods\CW1\part2\BuildAbike\UITest_BuildAbike\bin\Debug\UITest_BuildAbike.pdb

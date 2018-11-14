@@ -1,0 +1,10 @@
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\b\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\b\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\b\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\b\TestProject\bin\Debug\TestProject.dll
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\b\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\i\TestProject\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\i\TestProject\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\i\TestProject\Debug\TestProject.csproj.CopyComplete
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\i\TestProject\Debug\TestProject.dll
+C:\Users\Richard\source\repos\BuildAbike\.vs\BuildAbike\lut\0\i\TestProject\Debug\TestProject.pdb
